@@ -4,7 +4,7 @@ Context
 
 La nostra empresa es dedica a garantir que els paquets arribin sempre al seu destí de manera correcta i puntual, especialment en zones rurals o allunyades, on sovint es produeixen incidències com enviaments perduts o entregats a localitats equivocades. Per evitar aquestes situacions, comptem amb centres logístics estratègicament ubicats a prop d’aquests pobles, gestionats per professionals que coneixen a fons el territori i asseguren un repartiment eficient i precís.
 
-En el sector logístic, anomenem "última milla" a l’últim tram del recorregut d’un paquet: el moment en què surt del centre de distribució i arriba directament a les mans del client. És una fase clau i sovint la més complexa, ja que implica arribar porta a porta, adaptar-se a rutes variables i oferir un servei personalitzat.
+En el sector logístic, anomenem "última milla" a l’últim tram del recorregut d’un paquet: el moment en què surt del centre de distribució i arriba directament a les mans del client. És una fase clau i sovint la més complexa, ja que implica arribar porta a porta i adaptar-se a rutes variables.
 
 És precisament en aquesta última milla on som especialistes. Ens encarreguem de repartir els paquets un a un a cada llar, garantint puntualitat, cura i una entrega final impecable. 
 
