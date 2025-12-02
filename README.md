@@ -1,18 +1,32 @@
-Autores: Lucas Gagliano y Hanae El Majjaoui
+Autors: Lucas Gagliano i Hanae El Majjaoui
 
-Contexto:
-Nuestra empresa se encarga de repartir correctamente los paquetes al sitio donde tendrian que llegar y que sean sitios mas alejados de la sociedad o de los vendedores, donde normalmente
-estos mimsos paquetes se suelen perder por no llegar al sitio correcto o no acabar en la localidad adecuado.
-Nuestra empresa se encarga de tener cedes de logistica de paquetes `cerca de estos pueblos con gente que suele conocer bien la zona para poder repartir bien estos paquetes. 
+Context
 
-Abast: 
-Nos encargamos de la estructura del edificio tanto cableado como distribucion del edificio esto incluye: 
-Seguirdad, Cableado, Rangos de permisos, Instalacion y soporte de maquinas. (Seguretat SAIS // Xarxa interna Ciberta, Vegas // Permisos GPO's Antoni y Joan estrada // Montaje y manetnimiento de equipos Quim
-digitalizacion avance con la tecnologia y sostenibilidad frances\cano)
+La nostra empresa es dedica a garantir que els paquets arribin correctament al seu destí, especialment en zones rurals o allunyades on, sovint, els enviaments es perden o es lliuren a localitats incorrectes.
+Per evitar aquestes incidències, disposem de centres logístics ubicats estratègicament prop d’aquests pobles, gestionats per personal que coneix bé el territori i pot assegurar un repartiment eficient i precís.
 
-Formamos al personal del equipo en sus areas especifica por ejemplo, los de comunicacion entre nuestra empresa y los vendedores, mejor atencion al cliente tanto en la pajina como en persona 
-o la forma de reparto de los paquete, el conocimiento de las zonas, funcionamiento de maquinaria, recursos humanos. 
-(IPO Monse delgago // Aplicaciones de ofimatica Cano // toda lo de atencion al cliente incluido la pagina web Mariona\Joan Passarius //) 
+Abast
 
+Ens encarreguem de tota la infraestructura dels edificis logístics, incloent-hi:
+
+Disseny i estructura de l’edifici
+Cablejat i distribució interna
+Sistemes de seguretat
+Gestió de rangs de permisos
+Instal·lació, suport i manteniment de la maquinària
+
+(Responsables: Seguretat – Sais// Xarxa interna – Ciberta, Vegas // Permisos GPO – Antoni i Joan Estrada // Muntatge i manteniment d’equips – Quim // Digitalització, ecnologia i sostenibilitat – Francesc i Cano)
+
+
+A més, formem el personal en les seves àrees específiques, com ara:
+
+Comunicació entre la nostra empresa i els venedors
+Atenció al client, tant a la pàgina web com presencialment
+Procediments de repartiment dels paquets
+Coneixement del territori
+Funcionament de la maquinària
+Gestió de recursos humans
+
+(Responsables: IPO – Montse Delgado // Aplicacions d’ofimàtica – Cano // Atenció al client i gestió de la web – Mariona i Joan Passarius)
 
 
